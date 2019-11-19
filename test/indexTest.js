@@ -19,4 +19,4 @@ describe("index.js", () => {
       expect(content).to.equal(testContent)
     })
   })
-})
+}) 
